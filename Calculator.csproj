@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ProjectGuid>{F817A2FE-88E3-3460-E768-EDE46A78B465}</ProjectGuid>
+  </PropertyGroup>
+</Project>
