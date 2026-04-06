@@ -2,13 +2,6 @@
 
 A professional Windows Forms Calculator application built with C# and .NET 8.0, featuring a modern gradient UI design.
 
-## Features
-
-✨ **Modern Design**
-- Dark theme with gradient background
-- Contemporary color scheme with cyan operators and emerald green equals button
-- Professional slate blue number buttons
-
 ⚙️ **Full Calculator Functionality**
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
 - Decimal point support for floating-point calculations
@@ -66,16 +59,6 @@ dotnet run
 - **Architecture**: Event-driven with state management
 - **Gradient Rendering**: Custom Paint event for modern background
 
-## Color Scheme
-
-- **Background**: Dark blue to purple gradient
-- **Display**: Dark gray with cyan text
-- **Number Buttons**: Slate blue (60, 80, 120)
-- **Operators**: Cyan (0, 180, 220)
-- **Equals**: Emerald green (0, 200, 100)
-- **Clear/Backspace**: Muted blue (80, 100, 140)
-
-## License
 
 This project is open source and available under the MIT License.
 
